@@ -1,5 +1,5 @@
 # BakeSale
-Created android/ios application which user can search and navigate through deals.
+Created android/ios application which user can search and navigate through deals from https://bakesaleforgood.com/api/deals.
 
 ##To run this app
 
